@@ -1,5 +1,4 @@
 #Perilous Wil Region Name Generator
-#Thomas Roberts 10-17-15
 
 #Imports :   Dice for die rolling
 import dice
